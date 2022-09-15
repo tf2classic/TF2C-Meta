@@ -1,0 +1,14 @@
+{
+	"versions":
+	[
+		{"ver": "200"},
+		{"ver": "201"},
+		{"ver": "202"},
+		{"ver": "203", "url": "tf2classic-latest-zst.meta4", "file": "tf2classic.tar.zst", "presz": 4350680575, "postsz": 12302098432},
+		{"ver": "204", "postsz": 12312133632}
+	],
+	"patches":
+	{
+		"203": {"to": "204", "url": "tf2classic-patch-203-204.tar.zst", "presz": 11352156, "postsz": 10035200}
+	}
+}
