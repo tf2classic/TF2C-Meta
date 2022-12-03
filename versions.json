@@ -8,6 +8,6 @@
 	],
 	"patches":
 	{
-		"203": {"to": "204", "url": "tf2classic-patch-203-204.tar.zst", "presz": 11352156, "postsz": 10035200}
+		"203": {"to": "204", "url": "tf2classic-patch-203-204.meta4", "file": "tf2classic-patch-203-204.tar.zst", "presz": 84332180, "postsz": 139460608}
 	}
 }
