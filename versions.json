@@ -4,7 +4,7 @@
 		{"ver": "200"},
 		{"ver": "201"},
 		{"ver": "202"},
-		{"ver": "203", "url": "tf2classic-2.0.3.meta4", "file": "tf2classic.tar.zst", "presz": 4350680575, "postsz": 12302098432}
+		{"ver": "203", "url": "tf2classic-2.0.3.meta4", "file": "tf2classic.tar.zst", "presz": 4350680575, "postsz": 12302098432},
 		{"ver": "204", "url": "tf2classic-2.0.4.meta4", "file": "tf2classic-2.0.4.tar.zst", "presz": 4350680575, "postsz": 12884901888}
 	],
 	"patches":
